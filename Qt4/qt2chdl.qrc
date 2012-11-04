@@ -1,0 +1,10 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/qrc">
+  <file alias="icon_qt2chdl">../icons/qt2chdl.png</file>
+  <file alias="icon_download">../icons/bottom.png</file>
+  <file alias="icon_exit">../icons/exit.png</file>
+  <file alias="icon_minimize">../icons/1downarrow.png</file>
+  <file alias="icon_maximize">../icons/1uparrow.png</file>
+  <file alias="icon_restore">../icons/player_play.png</file>
+</qresource>
+</RCC>
